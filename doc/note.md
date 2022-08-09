@@ -5,7 +5,12 @@
   - [Day 1](#day-1)
     - [2022 가트너 12대 전략 기술동향](#2022-가트너-12대-전략-기술동향)
     - 
-  
+
+## 강사공유자료
+- [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
+- [딥러닝을 이용한 자연어처리](https://wikidocs.net/book/2155https://wikidocs.net/book/2155)
+- [파이선 데이터 분석](https://datascienceschool.net/intro.html)
+
 ## Day 1
 
 ### 2022 가트너 12대 전략 기술동향
