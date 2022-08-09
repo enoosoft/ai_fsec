@@ -4,22 +4,27 @@
 ## 목차
   - [Day 1](#day-1)
     - [2022 가트너 12대 전략 기술동향](#2022-가트너-12대-전략-기술동향)
+    - 
   
 ## Day 1
 
 ### 2022 가트너 12대 전략 기술동향
-1. 성장가속 부문
-    - 제너레이티브(Generative) AI
-2. 변화형성 부분
-    - 의사결정 지능
-    - 인공지능 엔지니어링
-      - 데이터 수집/분석, 가공, 모델구현, 적용, 평가, 모니터링, 배포, 시각화 등의 자동화 최적화 기술
+1. 성장가속 부문: 제너레이티브(Generative) AI
+   - 주어진 학습 데이터를 학습하여 학습데이터의 분포를 따르는 유사한 데이터를 생성하는 모델
+2. 변화형성 부문: 의사결정 지능
+    - 의사 결정을 최적화(Decision Optimization)하는 데 적용되는 AI, 최적화 모델링 등을 말한다. 비즈니스 자동화(business automation) 방식의 하나로, 비즈니스 규칙을 적용하여 조직에서 정의한 의사 결정 프로세스를 자동화하여 운영의 효율성을 향상시킨다
+2. 변화형성 부문: 인공지능 엔지니어링
+    - 데이터 수집/분석, 가공, 모델구현, 적용, 평가, 모니터링, 배포, 시각화 등의 자동화 최적화 기술
 
 ### AI의 현재와 미래
-[AI에게 벽돌깨기를 가르쳐봤다](https://www.youtube.com/watch?v=V1eYniJ0Rnk)
-- 이미지추론, 챗봇, 번역, 창작(문학, 예술 작품), StarCraft2 (프로게이머 vs AI) ?
-- [GuaGAN](https://www.nvidia.com/ko-kr/studio/canvas/)
+- [AI에게 벽돌깨기를 가르쳐봤다](https://www.youtube.com/watch?v=V1eYniJ0Rnk)
+- 이미지추론(pdf.19), 챗봇, 번역, 창작(문학(pdf.23), 예술 작품), StarCraft2 (프로게이머 vs AI) ?
+- [GuaGAN](https://www.nvidia.com/ko-kr/studio/canvas/)(pdf.26), [Youtube](https://www.youtube.com/watch?v=OGGjXG562WU&t=535s)
 - [Magenta AI Jam](https://www.youtube.com/watch?v=QlVoR1jQrPk)
 
 ### AI에 다가가기 
-- Tensorflow Developers Ceritificate( pdf.44)
+- [PyTorch VS Tensorflow](https://news.hada.io/topic?id=5578)
+- Tensorflow Developers Certificate(pdf.44)
+- AI는 만능이 아니다. 데이터전문가, AI전문가가 되기 보다 실무의 전문가가 먼저되어야 AI를 실무에서 성공시킬수 있다.(pdf.52)
+- 데이터 가공, 선별, **개발** 능력이 있어야 한다. 
+- `도메인 전문가` + `개발능력`
