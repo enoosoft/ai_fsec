@@ -77,3 +77,21 @@
 
 ### Day 1 실습
 - Google Colaboratory 설정
+- [day1_첫실습](colab/../../colab/day1_첫실습.ipynb)
+- [day1_환경구축](colab/../../colab//Day_1_01_Colaboratory_%ED%99%98%EA%B2%BD_%EA%B5%AC%EC%B6%95.ipynb.ipynb)
+- [day1_tensor_manipulation](colab/../../colab/Day_1_02_tensor_manipulation.ipynb.ipynb)
+
+```math
+
+M1 = [1,2]  
+     [3,4]
+
+M2 = [1]  
+     [2]
+
+1*1 + 2*2 = 5
+3*1 + 4*2 = 11
+
+MUL = [ 5]
+      [11]
+```
