@@ -84,9 +84,9 @@
 
 ## Day 1 실습
 - Google Colaboratory 설정
-- [day1_첫실습](../../colab/day1_첫실습.ipynb)
-- [day1_환경구축](../../colab//Day_1_01_Colaboratory_%ED%99%98%EA%B2%BD_%EA%B5%AC%EC%B6%95.ipynb)
-- [day1_tensor_manipulation](../../colab/Day_1_02_tensor_manipulation.ipynb)
+- [day1_첫실습](colab/day1_%EC%B2%AB%EC%8B%A4%EC%8A%B5.ipynb)
+- [day1_환경구축](colab/Day_1_01_Colaboratory_%ED%99%98%EA%B2%BD_%EA%B5%AC%EC%B6%95.ipynb)
+- [day1_tensor_manipulation](colab/Day_1_02_tensor_manipulation.ipynb)
 
 ```js
 // 행렬곱
