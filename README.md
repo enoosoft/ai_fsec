@@ -178,5 +178,13 @@ MUL = [ 5]
 - [Day_2_02_logistic_classification](colab/Day_2_02_logistic_classification.ipynb)
 
 #### 소프트맥스 회귀분석
+- 3개 이상의 다중클래스로 결정할때. 붓꽃분류, 와인분류, 숫자인식, 영상인식 등
+- 분류기(로지스틱 회귀분석)를 여러개를 쓰자
 
-- 
+<img width="640px" src="doc/images/day2/s01.png">
+<img width="640px" src="doc/images/day2/s02.png">
+<img width="640px" src="doc/images/day2/s03.png">
+<img width="640px" src="doc/images/day2/s04.png">
+<img width="640px" src="doc/images/day2/s05.png">
+<img width="640px" src="doc/images/day2/s06.png">
+<img width="640px" src="doc/images/day2/s07.png">
