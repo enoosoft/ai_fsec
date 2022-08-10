@@ -15,7 +15,14 @@
         - [의사결정나무(Decision Tree) 모델](#의사결정나무decision-tree-모델)
         - [딥러닝(Deep Learning) 모델](#딥러닝deep-learning-모델)
   - [Day 1 실습](#day-1-실습)
-  - [Day 2 실습](#day-2-실습)
+  - [Day 2 (8월 10일)](#day-2-8월-10일)
+    - [인공지능의 개념](#인공지능의-개념)
+    - [머신러닝의 접근방식](#머신러닝의-접근방식)
+    - [기계학습의 직관적인 예제](#기계학습의-직관적인-예제)
+    - [기계학습의 간단한 예 (최소 오차 직선의 방정식 찾기(y = wx + b))](#기계학습의-간단한-예-최소-오차-직선의-방정식-찾기y--wx--b)
+    - [ML의 구분](#ml의-구분)
+    - [머신러닝 기초이론](#머신러닝-기초이론)
+      - [회귀분석, 로지스틱 회귀분석](#회귀분석-로지스틱-회귀분석)
 ## 강사공유자료
 - [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
 - [딥러닝을 이용한 자연어처리](https://wikidocs.net/book/2155https://wikidocs.net/book/2155)
@@ -50,18 +57,18 @@
 - 기계학습 및 딥러닝에서 학습은 학습 데이터를 가장 잘 설명할 수 있는 모델(수학공식 등)을 만들어 가는 과정
 - 하지만 실세계의 문제는 철수 다음달 수학성적을 맞추는 것처럼 딱 떨어지는 공식을 적용하기 어렵다. 예측을 위해 평균, 표준편차를 사용한다.
   
-<img width="500px" src="images/day1/1355.png">
+<img width="640px" src="doc/images/day1/1355.png">
 
 #### 학습모델 검증
 ##### 신경망 모델
 - 그래프(시각화)를 통해 정규분포 가설의 적합성을 판단하나 고차원 데이터의 경우는 시각화가 어려움
 - 데이터기반 학습최적화. 오차 패널티(pdf.73)
 
-<img width="500px" src="images/day1/1426.png">
+<img width="640px" src="doc/images/day1/1426.png">
 
 - 유클리디안 거리(Euclidean distance)
 
-<img width="500px" src="images/day1/1429.png">
+<img width="640px" src="doc/images/day1/1429.png">
 
 
 > **쉬는시간 질문 (8/9 14:26)**<br>
@@ -104,4 +111,47 @@ MUL = [ 5]
       [11]
 ```
 
-## Day 2 실습
+## Day 2 (8월 10일)
+### 인공지능의 개념
+
+<img width="640px" src="doc/images/day2/1017.png">
+
+### 머신러닝의 접근방식
+
+<img width="640px" src="doc/images/day2/1034.png">
+
+### 기계학습의 직관적인 예제
+
+<img width="640px" src="doc/images/day2/1038.png">
+
+### 기계학습의 간단한 예 (최소 오차 직선의 방정식 찾기(y = wx + b))
+- 직선을 긋고 최소오차의 직선을 찾는다
+
+<img width="640px" src="doc/images/day2/1046.png">
+
+### ML의 구분
+- 지도 학습
+  - 정답이 있는 데이터를 활용해 데이터를 학습시키는 것
+  - 입력 값(X data)이 주어지면 입력값에 대한 Label(Y data)를 주어 학습
+  - 사람이 라벨링을 하며 학습 비용이 높다. 학습량에 정비례.
+  - 분류(Classification): 이산데이터화. 이거냐 저거냐
+  - 회귀(Regression): 어떤 수나 실수로 예측(상대적으로 어려움)
+- 비지도 학습
+  - 정답 라벨이 없는 데이터를 비슷한 특징끼리 군집화 하여 새로운 데이터에 대한 결과를 예측
+  - 데이터의 숨겨진 규칙을 찾는다. 라벨링, 피드백 안함. 그래서 대량의 데이터를 학습 시킬 수 있다.
+- 강화 학습은 지도없이 머신에 보상을 제공하며 학습을 시킨다. 게임처럼.
+> [참고블로그링크](https://ebbnflow.tistory.com/165)
+- 준지도(Semi-supervised) 학습
+   - 지도 학습을 (ex: gpt3) 을 통해 체계적인 데이터 학습 후에 비지도 학습으로 비정형데이터를 대량으로 쏟아부어 학습시킨다.
+<img width="640px" src="doc/images/day2/1053.png">
+
+> 머신러닝 벤치마킹 사이트 8/10 13:09<br>
+> [playground.tensorflow.org](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.75216&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)<br>
+> [ml-playground.com](https://ml-playground.com/#)
+
+### 머신러닝 기초이론
+
+#### 회귀분석, 로지스틱 회귀분석
+- Gradient decent: 경사하강 알고리즘
+  - W:= W - 학습률(a)* 미분:기우는상태:a/aW)*cost(W)
+<img width="640px" src="doc/images/day2/1325.png">
