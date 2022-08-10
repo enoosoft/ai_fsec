@@ -23,6 +23,7 @@
     - [ML의 구분](#ml의-구분)
     - [머신러닝 기초이론](#머신러닝-기초이론)
       - [회귀분석, 로지스틱 회귀분석](#회귀분석-로지스틱-회귀분석)
+  - [Day 2 실습](#day-2-실습)
 ## 강사공유자료
 - [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
 - [딥러닝을 이용한 자연어처리](https://wikidocs.net/book/2155https://wikidocs.net/book/2155)
@@ -155,3 +156,7 @@ MUL = [ 5]
 - Gradient decent: 경사하강 알고리즘
   - W:= W - 학습률(a)* 미분:기우는상태:a/aW)*cost(W)
 <img width="640px" src="doc/images/day2/1325.png">
+
+
+## Day 2 실습
+- [Day_2_01_linear_regression](colab/Day_2_01_linear_regression.ipynb)
