@@ -25,6 +25,8 @@
       - [회귀분석](#회귀분석)
         - [회귀분석 실습](#회귀분석-실습)
       - [로지스틱 회귀분석](#로지스틱-회귀분석)
+        - [로지스틱 회귀분석 실습](#로지스틱-회귀분석-실습)
+      - [소프트맥스 회귀분석](#소프트맥스-회귀분석)
 ## 강사공유자료
 - [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
 - [딥러닝을 이용한 자연어처리](https://wikidocs.net/book/2155https://wikidocs.net/book/2155)
@@ -170,3 +172,11 @@ MUL = [ 5]
 <img width="640px" src="doc/images/day2/1507.png">
 <img width="640px" src="doc/images/day2/1510.png">
 <img width="640px" src="doc/images/day2/1512.png">
+
+
+##### 로지스틱 회귀분석 실습
+- [Day_2_02_logistic_classification](colab/Day_2_02_logistic_classification.ipynb)
+
+#### 소프트맥스 회귀분석
+
+- 
