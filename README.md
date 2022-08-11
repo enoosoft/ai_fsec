@@ -33,9 +33,10 @@
         - [신경망 실습](#신경망-실습)
     - [신경망](#신경망-1)
         - [신경망 실습](#신경망-실습-1)
+
 ## 강사공유자료
 - [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
-- [딥러닝을 이용한 자연어처리](https://wikidocs.net/book/2155https://wikidocs.net/book/2155)
+- [딥러닝을 이용한 자연어처리](https://wikidocs.net/book/2155)
 - [파이선 데이터 분석](https://datascienceschool.net/intro.html)
 
 > 무언가를 공부할때 포트폴리오를 만든다는 생각으로 정리하고 공유하자.
@@ -235,3 +236,6 @@ MUL = [ 5]
 ##### 신경망 실습
 - [3_mnist_nn_xavier](colab/3_mnist_nn_xavier.ipynb)
 - [4_mnist_nn_deep](colab/4_mnist_nn_deep.ipynb)
+
+> [머신러닝 옵티마이져 종류](https://velog.io/@freesky/Optimizer)
+
