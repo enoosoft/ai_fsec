@@ -210,3 +210,4 @@ MUL = [ 5]
 - [Day_3_04_xor](colab/Day_3_04_xor.ipynb)
 - [Day_3_04_xor_nn](colab/Day_3_04_xor_nn.ipynb)
 - [Day_3_04_xor_nn_wide_deep](colab/Day_3_04_xor_nn_wide_deep.ipynb)
+- [1_mnist_softmax](colab/1_mnist_softmax.ipynb)
