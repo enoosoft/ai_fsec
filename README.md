@@ -28,6 +28,9 @@
         - [로지스틱 회귀분석 실습](#로지스틱-회귀분석-실습)
       - [소프트맥스 회귀분석](#소프트맥스-회귀분석)
         - [소프트맥스 회귀분석 실습](#소프트맥스-회귀분석-실습)
+  - [Day 3 (8월 11일)](#day-3-8월-11일)
+    - [신경망](#신경망)
+        - [신경망 실습](#신경망-실습)
 ## 강사공유자료
 - [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
 - [딥러닝을 이용한 자연어처리](https://wikidocs.net/book/2155https://wikidocs.net/book/2155)
@@ -191,4 +194,17 @@ MUL = [ 5]
 <img width="640px" src="doc/images/day2/s07.png">
 
 ##### 소프트맥스 회귀분석 실습
+- [Day_2_03_softmax_classification](colab/Day_2_03_softmax_classification.ipynb)
+
+## Day 3 (8월 11일)
+### 신경망
+
+<img width="640px" src="doc/images/day2/s101.png">
+<img width="640px" src="doc/images/day2/s102.png">
+<img width="640px" src="doc/images/day2/s103.png">
+<img width="640px" src="doc/images/day2/s104.png">
+<img width="640px" src="doc/images/day2/s105.png">
+<img width="640px" src="doc/images/day2/s106.png">
+
+##### 신경망 실습
 - [Day_2_03_softmax_classification](colab/Day_2_03_softmax_classification.ipynb)
