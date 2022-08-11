@@ -31,6 +31,8 @@
   - [Day 3 (8월 11일)](#day-3-8월-11일)
     - [신경망](#신경망)
         - [신경망 실습](#신경망-실습)
+    - [신경망](#신경망-1)
+        - [신경망 실습](#신경망-실습-1)
 ## 강사공유자료
 - [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
 - [딥러닝을 이용한 자연어처리](https://wikidocs.net/book/2155https://wikidocs.net/book/2155)
@@ -211,8 +213,20 @@ MUL = [ 5]
 - [Day_3_04_xor_nn](colab/Day_3_04_xor_nn.ipynb)
 - [Day_3_04_xor_nn_wide_deep](colab/Day_3_04_xor_nn_wide_deep.ipynb)
 - [1_mnist_softmax](colab/1_mnist_softmax.ipynb)
+- [2_mnist_nn](colab/2_mnist_nn.ipynb)
 
 > [kaggle 데이터분석가들의 놀이터](https://www.kaggle.com/)
 
 > 수강생: 신경망 은닉층 볼륨에서 동그라미로 표현된 것들이 필터(판단조건)라고 이해하면 되는건가요?<br>
 > 강사: 판단조건이라기 보다는 측정기노드로서 확률값(weight)을 출력한다고 보면 됩니다.
+
+
+
+### 신경망
+
+<img width="640px" src="doc/images/day2/s101.png">
+
+
+##### 신경망 실습
+- [Day_3_04_xor](colab/Day_3_04_xor.ipynb)
+- 
