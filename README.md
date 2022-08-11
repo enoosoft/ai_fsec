@@ -34,7 +34,7 @@
     - [신경망과 딥러닝 실습과 심화](#신경망과-딥러닝-실습과-심화-1)
       - [신경망 실습](#신경망-실습-1)
     - [신경망과 딥러닝 실습과 심화](#신경망과-딥러닝-실습과-심화-2)
-    - [ㅊ](#ㅊ)
+    - [CNN](#cnn)
 
 ## 강사공유자료
 - [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
@@ -258,4 +258,24 @@ MUL = [ 5]
 <img width="640px" src="doc/images/day2/s313.png">
 
 
-### ㅊ
+> Q&A<br>
+> 수강생: PyTorch 프로그램으로 training 을 통해 학습된 데이터(AI)는 어디에 어떤 형태로 저장이 되나요? 그리고 그것을 어떻게 재사용 할 수 있나요?<br>
+> 강사: [모델저장하기&불러오기](https://tutorials.pytorch.kr/beginner/saving_loading_models.html)<br>
+
+```python
+# 모델 저장하기
+torch.save(model.state_dict(), PATH)
+
+# 모델 불러오기
+model = TheModelClass(*args, **kwargs)
+model.load_state_dict(torch.load(PATH))
+model.eval()
+```
+
+### CNN
+
+<img width="640px" src="doc/images/day2/s41.png">
+<img width="640px" src="doc/images/day2/s42.png">
+<img width="640px" src="doc/images/day2/s43.png">
+<img width="640px" src="doc/images/day2/s44.png">
+<img width="640px" src="doc/images/day2/s45.png">
