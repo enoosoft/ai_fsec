@@ -224,9 +224,14 @@ MUL = [ 5]
 
 ### 신경망
 
-<img width="640px" src="doc/images/day2/s101.png">
+<img width="640px" src="doc/images/day2/s201.png">
+<img width="640px" src="doc/images/day2/s202.png">
+<img width="640px" src="doc/images/day2/s203.png">
+<img width="640px" src="doc/images/day2/s204.png">
+<img width="640px" src="doc/images/day2/s205.png">
+<img width="640px" src="doc/images/day2/s205.png">
 
 
 ##### 신경망 실습
-- [Day_3_04_xor](colab/Day_3_04_xor.ipynb)
-- 
+- [3_mnist_nn_xavier](colab/3_mnist_nn_xavier.ipynb)
+- [4_mnist_nn_deep](colab/4_mnist_nn_deep.ipynb)
