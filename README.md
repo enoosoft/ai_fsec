@@ -35,6 +35,7 @@
       - [신경망 실습](#신경망-실습-1)
     - [신경망과 딥러닝 실습과 심화](#신경망과-딥러닝-실습과-심화-2)
     - [CNN](#cnn)
+      - [CNN 실습](#cnn-실습)
 
 ## 강사공유자료
 - [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
@@ -238,6 +239,8 @@ MUL = [ 5]
 #### 신경망 실습
 - [3_mnist_nn_xavier](colab/3_mnist_nn_xavier.ipynb)
 - [4_mnist_nn_deep](colab/4_mnist_nn_deep.ipynb)
+- [5_mnist_nn_dropout](colab/5_mnist_nn_dropout.ipynb)
+- [6_mnist_batchnorm](colab/6_mnist_batchnorm.ipynb)
 
 > [머신러닝 옵티마이져 종류](https://velog.io/@freesky/Optimizer)
 
@@ -279,3 +282,11 @@ model.eval()
 <img width="640px" src="doc/images/day2/s43.png">
 <img width="640px" src="doc/images/day2/s44.png">
 <img width="640px" src="doc/images/day2/s45.png">
+
+#### CNN 실습
+- [extra_1_mnist_cnn](colab/extra_1_mnist_cnn.ipynb)
+- [extra_2_mnist_deep_cnn](colab/extra_2_mnist_deep_cnn.ipynb)
+
+> CNN 으로 이런 성능도 낼수 있다.<br>
+> [kaggle - CNN Keras - 0.997 (top 6%)](https://www.kaggle.com/code/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)
+
