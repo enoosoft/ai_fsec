@@ -207,4 +207,5 @@ MUL = [ 5]
 <img width="640px" src="doc/images/day2/s106.png">
 
 ##### 신경망 실습
-- [Day_2_03_softmax_classification](colab/Day_2_03_softmax_classification.ipynb)
+- [Day_3_04_xor](colab/Day_3_04_xor.ipynb)
+- [Day_3_04_xor_nn](colab/Day_3_04_xor_nn.ipynb)
