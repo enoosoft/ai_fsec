@@ -36,6 +36,7 @@
     - [신경망과 딥러닝 실습과 심화](#신경망과-딥러닝-실습과-심화-2)
     - [CNN](#cnn)
       - [CNN 실습](#cnn-실습)
+    - [RNN](#rnn)
 
 ## 강사공유자료
 - [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
@@ -205,12 +206,12 @@ MUL = [ 5]
 ## Day 3 (8월 11일)
 ### 신경망과 딥러닝 실습과 심화
 
-<img width="640px" src="doc/images/day2/s101.png">
-<img width="640px" src="doc/images/day2/s102.png">
-<img width="640px" src="doc/images/day2/s103.png">
-<img width="640px" src="doc/images/day2/s104.png">
-<img width="640px" src="doc/images/day2/s105.png">
-<img width="640px" src="doc/images/day2/s106.png">
+<img width="640px" src="doc/images/day3/s101.png">
+<img width="640px" src="doc/images/day3/s102.png">
+<img width="640px" src="doc/images/day3/s103.png">
+<img width="640px" src="doc/images/day3/s104.png">
+<img width="640px" src="doc/images/day3/s105.png">
+<img width="640px" src="doc/images/day3/s106.png">
 
 #### 신경망 실습
 - [Day_3_04_xor](colab/Day_3_04_xor.ipynb)
@@ -228,12 +229,12 @@ MUL = [ 5]
 
 ### 신경망과 딥러닝 실습과 심화
 
-<img width="640px" src="doc/images/day2/s201.png">
-<img width="640px" src="doc/images/day2/s202.png">
-<img width="640px" src="doc/images/day2/s203.png">
-<img width="640px" src="doc/images/day2/s204.png">
-<img width="640px" src="doc/images/day2/s205.png">
-<img width="640px" src="doc/images/day2/s206.png">
+<img width="640px" src="doc/images/day3/s201.png">
+<img width="640px" src="doc/images/day3/s202.png">
+<img width="640px" src="doc/images/day3/s203.png">
+<img width="640px" src="doc/images/day3/s204.png">
+<img width="640px" src="doc/images/day3/s205.png">
+<img width="640px" src="doc/images/day3/s206.png">
 
 
 #### 신경망 실습
@@ -247,18 +248,18 @@ MUL = [ 5]
 
 ### 신경망과 딥러닝 실습과 심화
 
-<img width="640px" src="doc/images/day2/s301.png">
-<img width="640px" src="doc/images/day2/s302.png">
-<img width="640px" src="doc/images/day2/s304.png">
-<img width="640px" src="doc/images/day2/s305.png">
-<img width="640px" src="doc/images/day2/s306.png">
-<img width="640px" src="doc/images/day2/s307.png">
-<img width="640px" src="doc/images/day2/s308.png">
-<img width="640px" src="doc/images/day2/s309.png">
-<img width="640px" src="doc/images/day2/s310.png">
-<img width="640px" src="doc/images/day2/s311.png">
-<img width="640px" src="doc/images/day2/s312.png">
-<img width="640px" src="doc/images/day2/s313.png">
+<img width="640px" src="doc/images/day3/s301.png">
+<img width="640px" src="doc/images/day3/s302.png">
+<img width="640px" src="doc/images/day3/s304.png">
+<img width="640px" src="doc/images/day3/s305.png">
+<img width="640px" src="doc/images/day3/s306.png">
+<img width="640px" src="doc/images/day3/s307.png">
+<img width="640px" src="doc/images/day3/s308.png">
+<img width="640px" src="doc/images/day3/s309.png">
+<img width="640px" src="doc/images/day3/s310.png">
+<img width="640px" src="doc/images/day3/s311.png">
+<img width="640px" src="doc/images/day3/s312.png">
+<img width="640px" src="doc/images/day3/s313.png">
 
 
 > Q&A<br>
@@ -277,11 +278,11 @@ model.eval()
 
 ### CNN
 
-<img width="640px" src="doc/images/day2/s41.png">
-<img width="640px" src="doc/images/day2/s42.png">
-<img width="640px" src="doc/images/day2/s43.png">
-<img width="640px" src="doc/images/day2/s44.png">
-<img width="640px" src="doc/images/day2/s45.png">
+<img width="640px" src="doc/images/day3/s41.png">
+<img width="640px" src="doc/images/day3/s42.png">
+<img width="640px" src="doc/images/day3/s43.png">
+<img width="640px" src="doc/images/day3/s44.png">
+<img width="640px" src="doc/images/day3/s45.png">
 
 #### CNN 실습
 - [extra_1_mnist_cnn](colab/extra_1_mnist_cnn.ipynb)
@@ -290,3 +291,6 @@ model.eval()
 > CNN 으로 이런 성능도 낼수 있다.<br>
 > [kaggle - CNN Keras - 0.997 (top 6%)](https://www.kaggle.com/code/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)
 
+
+### RNN
+- RNN 의 모델에는 LSTM(Long Short Term Memory), GRU 가 있다. 주로 LSTM 많이 쓴다.
