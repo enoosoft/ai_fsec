@@ -33,6 +33,7 @@
         - [신경망 실습](#신경망-실습)
     - [신경망](#신경망-1)
         - [신경망 실습](#신경망-실습-1)
+    - [신경망](#신경망-2)
 
 ## 강사공유자료
 - [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
@@ -230,7 +231,7 @@ MUL = [ 5]
 <img width="640px" src="doc/images/day2/s203.png">
 <img width="640px" src="doc/images/day2/s204.png">
 <img width="640px" src="doc/images/day2/s205.png">
-<img width="640px" src="doc/images/day2/s205.png">
+<img width="640px" src="doc/images/day2/s206.png">
 
 
 ##### 신경망 실습
@@ -239,3 +240,19 @@ MUL = [ 5]
 
 > [머신러닝 옵티마이져 종류](https://velog.io/@freesky/Optimizer)
 
+
+### 신경망
+
+<img width="640px" src="doc/images/day2/s301.png">
+<img width="640px" src="doc/images/day2/s302.png">
+<img width="640px" src="doc/images/day2/s303.png">
+<img width="640px" src="doc/images/day2/s304.png">
+<img width="640px" src="doc/images/day2/s305.png">
+<img width="640px" src="doc/images/day2/s306.png">
+<img width="640px" src="doc/images/day2/s307.png">
+<img width="640px" src="doc/images/day2/s308.png">
+<img width="640px" src="doc/images/day2/s309.png">
+<img width="640px" src="doc/images/day2/s310.png">
+<img width="640px" src="doc/images/day2/s311.png">
+<img width="640px" src="doc/images/day2/s312.png">
+<img width="640px" src="doc/images/day2/s313.png">
