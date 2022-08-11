@@ -209,3 +209,4 @@ MUL = [ 5]
 ##### 신경망 실습
 - [Day_3_04_xor](colab/Day_3_04_xor.ipynb)
 - [Day_3_04_xor_nn](colab/Day_3_04_xor_nn.ipynb)
+- [Day_3_04_xor_nn_wide_deep](colab/Day_3_04_xor_nn_wide_deep.ipynb)
