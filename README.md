@@ -29,11 +29,12 @@
       - [소프트맥스 회귀분석](#소프트맥스-회귀분석)
         - [소프트맥스 회귀분석 실습](#소프트맥스-회귀분석-실습)
   - [Day 3 (8월 11일)](#day-3-8월-11일)
-    - [신경망](#신경망)
-        - [신경망 실습](#신경망-실습)
-    - [신경망](#신경망-1)
-        - [신경망 실습](#신경망-실습-1)
-    - [신경망](#신경망-2)
+    - [신경망과 딥러닝 실습과 심화](#신경망과-딥러닝-실습과-심화)
+      - [신경망 실습](#신경망-실습)
+    - [신경망과 딥러닝 실습과 심화](#신경망과-딥러닝-실습과-심화-1)
+      - [신경망 실습](#신경망-실습-1)
+    - [신경망과 딥러닝 실습과 심화](#신경망과-딥러닝-실습과-심화-2)
+    - [ㅊ](#ㅊ)
 
 ## 강사공유자료
 - [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
@@ -201,7 +202,7 @@ MUL = [ 5]
 - [Day_2_03_softmax_classification](colab/Day_2_03_softmax_classification.ipynb)
 
 ## Day 3 (8월 11일)
-### 신경망
+### 신경망과 딥러닝 실습과 심화
 
 <img width="640px" src="doc/images/day2/s101.png">
 <img width="640px" src="doc/images/day2/s102.png">
@@ -210,7 +211,7 @@ MUL = [ 5]
 <img width="640px" src="doc/images/day2/s105.png">
 <img width="640px" src="doc/images/day2/s106.png">
 
-##### 신경망 실습
+#### 신경망 실습
 - [Day_3_04_xor](colab/Day_3_04_xor.ipynb)
 - [Day_3_04_xor_nn](colab/Day_3_04_xor_nn.ipynb)
 - [Day_3_04_xor_nn_wide_deep](colab/Day_3_04_xor_nn_wide_deep.ipynb)
@@ -224,7 +225,7 @@ MUL = [ 5]
 
 
 
-### 신경망
+### 신경망과 딥러닝 실습과 심화
 
 <img width="640px" src="doc/images/day2/s201.png">
 <img width="640px" src="doc/images/day2/s202.png">
@@ -234,18 +235,17 @@ MUL = [ 5]
 <img width="640px" src="doc/images/day2/s206.png">
 
 
-##### 신경망 실습
+#### 신경망 실습
 - [3_mnist_nn_xavier](colab/3_mnist_nn_xavier.ipynb)
 - [4_mnist_nn_deep](colab/4_mnist_nn_deep.ipynb)
 
 > [머신러닝 옵티마이져 종류](https://velog.io/@freesky/Optimizer)
 
 
-### 신경망
+### 신경망과 딥러닝 실습과 심화
 
 <img width="640px" src="doc/images/day2/s301.png">
 <img width="640px" src="doc/images/day2/s302.png">
-<img width="640px" src="doc/images/day2/s303.png">
 <img width="640px" src="doc/images/day2/s304.png">
 <img width="640px" src="doc/images/day2/s305.png">
 <img width="640px" src="doc/images/day2/s306.png">
@@ -256,3 +256,6 @@ MUL = [ 5]
 <img width="640px" src="doc/images/day2/s311.png">
 <img width="640px" src="doc/images/day2/s312.png">
 <img width="640px" src="doc/images/day2/s313.png">
+
+
+### ㅊ
