@@ -211,3 +211,8 @@ MUL = [ 5]
 - [Day_3_04_xor_nn](colab/Day_3_04_xor_nn.ipynb)
 - [Day_3_04_xor_nn_wide_deep](colab/Day_3_04_xor_nn_wide_deep.ipynb)
 - [1_mnist_softmax](colab/1_mnist_softmax.ipynb)
+
+> [kaggle 데이터분석가들의 놀이터](https://www.kaggle.com/)
+
+> 수강생: 신경망 은닉층 볼륨에서 동그라미로 표현된 것들이 필터(판단조건)라고 이해하면 되는건가요?<br>
+> 강사: 판단조건이라기 보다는 측정기노드로서 확률값(weight)을 출력한다고 보면 됩니다.
