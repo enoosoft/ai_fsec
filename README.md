@@ -34,9 +34,9 @@
     - [신경망과 딥러닝 실습과 심화](#신경망과-딥러닝-실습과-심화-1)
       - [신경망 실습](#신경망-실습-1)
     - [신경망과 딥러닝 실습과 심화](#신경망과-딥러닝-실습과-심화-2)
-    - [CNN](#cnn)
+    - [CNN(Convolution Neural Network)](#cnnconvolution-neural-network)
       - [CNN 실습](#cnn-실습)
-    - [RNN](#rnn)
+    - [RNN(Recurrent Neural Network)](#rnnrecurrent-neural-network)
 
 ## 강사공유자료
 - [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
@@ -276,7 +276,7 @@ model.load_state_dict(torch.load(PATH))
 model.eval()
 ```
 
-### CNN
+### CNN(Convolution Neural Network)
 
 <img width="640px" src="doc/images/day3/s41.png">
 <img width="640px" src="doc/images/day3/s42.png">
@@ -292,5 +292,11 @@ model.eval()
 > [kaggle - CNN Keras - 0.997 (top 6%)](https://www.kaggle.com/code/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)
 
 
-### RNN
+### RNN(Recurrent Neural Network)
 - RNN 의 모델에는 LSTM(Long Short Term Memory), GRU 가 있다. 주로 LSTM 많이 쓴다.
+
+<img width="640px" src="doc/images/day3/a11.png">
+<img width="640px" src="doc/images/day3/a12.png">
+<img width="640px" src="doc/images/day3/a13.png">
+<img width="640px" src="doc/images/day3/a14.png">
+<img width="640px" src="doc/images/day3/a15.png">
