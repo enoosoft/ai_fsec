@@ -37,6 +37,7 @@
     - [CNN(Convolution Neural Network)](#cnnconvolution-neural-network)
       - [CNN 실습](#cnn-실습)
     - [RNN(Recurrent Neural Network)](#rnnrecurrent-neural-network)
+      - [CNN 실습](#cnn-실습-1)
 
 ## 강사공유자료
 - [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
@@ -300,3 +301,9 @@ model.eval()
 <img width="640px" src="doc/images/day3/a13.png">
 <img width="640px" src="doc/images/day3/a14.png">
 <img width="640px" src="doc/images/day3/a15.png">
+
+
+#### CNN 실습
+- [Day_3_05_hihello](colab/Day_3_05_hihello.ipynb)
+- [Day_3_05__charseq](colab/Day_3_05__charseq.ipynb)
+- 
