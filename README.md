@@ -329,3 +329,4 @@ model.eval()
 ### ElasticSearch
 
 - [signal_detection](colab/signal_detection.ipynb)
+- [semantic_search_to_Elasticsearch](colab/semantic_search_to_Elasticsearch.ipynb)
