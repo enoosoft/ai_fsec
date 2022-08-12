@@ -318,9 +318,4 @@ model.eval()
 ### 실습
 - [Day_3_01_Movie_Review_Sentiment_Analysis](colab/Day_3_01_Movie_Review_Sentiment_Analysis.ipynb)
 
-```sh
-!pip install -U torch==1.8.0 torchtext==0.9.0
-
-# Reload environment
-exit()
-```
+https://gptcrush.com/
