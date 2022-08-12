@@ -39,6 +39,7 @@
     - [RNN(Recurrent Neural Network)](#rnnrecurrent-neural-network)
       - [CNN 실습](#cnn-실습-1)
   - [Day 4 (8월 12일)](#day-4-8월-12일)
+    - [실습](#실습)
 
 ## 강사공유자료
 - [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
@@ -312,3 +313,14 @@ model.eval()
 
 > [GPT-3 패러다임을 바꿀 미친 성능의 인공지능 등장 및 활용 사례 10가지](https://www.youtube.com/watch?v=I7sZVrwM6_Q)<br>
 > [gptcrush.com](https://gptcrush.com/)
+
+
+### 실습
+- [Day_3_01_Movie_Review_Sentiment_Analysis](colab/Day_3_01_Movie_Review_Sentiment_Analysis.ipynb)
+
+```sh
+!pip install -U torch==1.8.0 torchtext==0.9.0
+
+# Reload environment
+exit()
+```
