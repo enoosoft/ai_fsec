@@ -41,6 +41,7 @@
   - [Day 4 (8월 12일)](#day-4-8월-12일)
     - [실습](#실습)
     - [ElasticSearch](#elasticsearch)
+    - [ElasticSearch App 실습](#elasticsearch-app-실습)
 
 ## 강사공유자료
 - [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
@@ -330,3 +331,7 @@ model.eval()
 
 - [signal_detection](colab/signal_detection.ipynb) 기사에 따른 주가 예측
 - [semantic_search_to_Elasticsearch](colab/semantic_search_to_Elasticsearch.ipynb) 연관 검색
+
+### ElasticSearch App 실습
+
+- [Elastic Cloud](https://cloud.elastic.co/) Create sample project deployment.
