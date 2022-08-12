@@ -290,7 +290,7 @@ model.eval()
 
 #### CNN 실습
 - [extra_1_mnist_cnn](colab/extra_1_mnist_cnn.ipynb)
-- [extra_2_mnist_deep_cnn](colab/extra_2_mnist_deep_cnn.ipynb)
+- [extra_2_mnist_deep_cnn](colab/extra_2_mnist_deep_cnn.ipynb) 
 
 > CNN 으로 이런 성능도 낼수 있다.<br>
 > [kaggle - CNN Keras - 0.997 (top 6%)](https://www.kaggle.com/code/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)
@@ -307,8 +307,8 @@ model.eval()
 
 
 #### CNN 실습
-- [Day_3_05_hihello](colab/Day_3_05_hihello.ipynb)
-- [Day_3_05__charseq](colab/Day_3_05__charseq.ipynb)
+- [Day_3_05_hihello](colab/Day_3_05_hihello.ipynb) 문자 순서 예측1
+- [Day_3_05__charseq](colab/Day_3_05__charseq.ipynb) 문자 순서 예측2
 
 ## Day 4 (8월 12일)
 
@@ -317,10 +317,10 @@ model.eval()
 
 
 ### 실습
-- [Day_3_01_Movie_Review_Sentiment_Analysis](colab/Day_3_01_Movie_Review_Sentiment_Analysis.ipynb)
-- [Naver_Movie_Review_Sentiment_Analysis](colab/Naver_Movie_Review_Sentiment_Analysis.ipynb)
-- [Day_3_02_seq2seq_translation_tutorial](colab/Day_3_02_seq2seq_translation_tutorial.ipynb)
-- [chatbot_with_transformer](colab/chatbot_with_transformer.ipynb)
+- [Day_3_01_Movie_Review_Sentiment_Analysis](colab/Day_3_01_Movie_Review_Sentiment_Analysis.ipynb) 영화평점 감정 분석
+- [Naver_Movie_Review_Sentiment_Analysis](colab/Naver_Movie_Review_Sentiment_Analysis.ipynb) 네이버 영화평점 감정 분석
+- [Day_3_02_seq2seq_translation_tutorial](colab/Day_3_02_seq2seq_translation_tutorial.ipynb) RNN 번역 
+- [chatbot_with_transformer](colab/chatbot_with_transformer.ipynb) 챗봇
 
 > [word vector operation](https://word2vec.kr/search/)<br>
 > [gpt](https://gptcrush.com/)<br>
@@ -328,5 +328,5 @@ model.eval()
 
 ### ElasticSearch
 
-- [signal_detection](colab/signal_detection.ipynb)
-- [semantic_search_to_Elasticsearch](colab/semantic_search_to_Elasticsearch.ipynb)
+- [signal_detection](colab/signal_detection.ipynb) 기사에 따른 주가 예측
+- [semantic_search_to_Elasticsearch](colab/semantic_search_to_Elasticsearch.ipynb) 연관 검색
