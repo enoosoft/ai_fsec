@@ -38,6 +38,7 @@
       - [CNN 실습](#cnn-실습)
     - [RNN(Recurrent Neural Network)](#rnnrecurrent-neural-network)
       - [CNN 실습](#cnn-실습-1)
+  - [Day 4 (8월 12일)](#day-4-8월-12일)
 
 ## 강사공유자료
 - [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
@@ -306,4 +307,8 @@ model.eval()
 #### CNN 실습
 - [Day_3_05_hihello](colab/Day_3_05_hihello.ipynb)
 - [Day_3_05__charseq](colab/Day_3_05__charseq.ipynb)
-- 
+
+## Day 4 (8월 12일)
+
+> [GPT-3 패러다임을 바꿀 미친 성능의 인공지능 등장 및 활용 사례 10가지](https://www.youtube.com/watch?v=I7sZVrwM6_Q)<br>
+> [gptcrush.com](https://gptcrush.com/)
