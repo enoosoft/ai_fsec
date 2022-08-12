@@ -317,5 +317,7 @@ model.eval()
 
 ### 실습
 - [Day_3_01_Movie_Review_Sentiment_Analysis](colab/Day_3_01_Movie_Review_Sentiment_Analysis.ipynb)
+- [](colab/Day3)
 
 https://gptcrush.com/
+ko-bert python Korean transformer
