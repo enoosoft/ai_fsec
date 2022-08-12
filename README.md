@@ -317,7 +317,10 @@ model.eval()
 
 ### 실습
 - [Day_3_01_Movie_Review_Sentiment_Analysis](colab/Day_3_01_Movie_Review_Sentiment_Analysis.ipynb)
-- [](colab/Day3)
+- [Naver_Movie_Review_Sentiment_Analysis](colab/Naver_Movie_Review_Sentiment_Analysis.ipynb)
+- [Day_3_02_seq2seq_translation_tutorial](colab/Day_3_02_seq2seq_translation_tutorial.ipynb)
+- [chatbot_with_transformer](colab/chatbot_with_transformer.ipynb)
 
-https://gptcrush.com/
-ko-bert python Korean transformer
+> [word vector operation](https://word2vec.kr/search/)<br>
+> [gpt](https://gptcrush.com/)<br>
+> [koBERT - python Korean transformer](https://github.com/SKTBrain/KoBERT)<br>
