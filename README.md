@@ -40,6 +40,7 @@
       - [CNN 실습](#cnn-실습-1)
   - [Day 4 (8월 12일)](#day-4-8월-12일)
     - [실습](#실습)
+    - [ElasticSearch](#elasticsearch)
 
 ## 강사공유자료
 - [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
@@ -324,3 +325,7 @@ model.eval()
 > [word vector operation](https://word2vec.kr/search/)<br>
 > [gpt](https://gptcrush.com/)<br>
 > [koBERT - python Korean transformer](https://github.com/SKTBrain/KoBERT)<br>
+
+### ElasticSearch
+
+- [signal_detection](colab/signal_detection.ipynb)
