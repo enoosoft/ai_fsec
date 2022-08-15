@@ -42,6 +42,7 @@
     - [실습](#실습)
     - [ElasticSearch](#elasticsearch)
     - [ElasticSearch App 실습](#elasticsearch-app-실습)
+  - [소감](#소감)
 
 ## 강사공유자료
 - [인공지능 공부 자료 모음 github](https://github.com/teddylee777/machine-learning)
@@ -335,3 +336,15 @@ model.eval()
 ### ElasticSearch App 실습
 
 - [Elastic Cloud](https://cloud.elastic.co/) Create sample project deployment.
+
+## 소감
+AI ML 을 하려면 수학, python(PyTorch, Tensorflow) 가 필수이다. 
+AI 를 직접하지 않고 사용만 하려면 작동방식을 이해하고 사용법을 익히면 된다.
+챗봇, 번역, 검색등 원시적인 AI를 직접 구현하는 것이 어렵지는 않다.
+하지만 구현할 수 있는것과 실제로 기업용으로 구축하여 운영한다는 것은 전혀 다른 문제다.
+기업용으로는 직접 구현하는것 보다는 검증된 솔루션을 도입하는 것이 적합하다고 생각한다.
+이러한 특성과 특유의 전문성 때문에 앞으로도 당분간 AI 분야에 진입장벽은 건재할것 같다.
+덤으로 AI분야가 아니더라도 금융 전산 배치 프로그램 등에서 
+성능 좋은 행렬연산을 많이 사용 하면 좋겠다는 생각을 했다.
+
+
