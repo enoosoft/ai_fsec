@@ -72,7 +72,7 @@
 - [PyTorch VS Tensorflow](https://news.hada.io/topic?id=5578)
 - Tensorflow Developers Certificate(pdf.44)
 - AI는 만능이 아니다. 데이터전문가, AI전문가가 되기 보다 실무의 전문가가 먼저되어야 AI를 실무에서 성공시킬수 있다.(pdf.52)
-- 데이터 가공, 선별, **개발** 능력이 있어야 한다. 
+- 데이터 가공, 선별, **개발** 능력이 있어야 한다.
 - `도메인 전문가` + `개발능력`
 
 ### 데이터학습(모델링)
